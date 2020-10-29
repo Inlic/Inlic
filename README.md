@@ -1,3 +1,6 @@
+[![Ben Wiedeback's github stats](https://github-readme-stats.vercel.app/api?username=inlic&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/inlic/github-readme-stats)
+
+
 # Profile
 
 Full Stack Software Developer with a passion for data analysis and solving by utilizing proven design frameworks to create clean, modern software.  Proficient with most up to date software development tools and technologies.
