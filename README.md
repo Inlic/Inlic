@@ -5,6 +5,12 @@
 
 Full Stack Software Developer with a passion for data analysis and solving by utilizing proven design frameworks to create clean, modern software.  Proficient with most up to date software development tools and technologies.
 
+## Resume
+
+[My Resume](./assets/Resume.docx)
+
+## 
+
 ## Languages
 
 - HTML/CSS
