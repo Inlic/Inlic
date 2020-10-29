@@ -7,7 +7,7 @@ Full Stack Software Developer with a passion for data analysis and solving by ut
 
 ## Resume
 
-[My Resume](./assets/Resume.docx)
+[My Resume](./assets/Resume.pdf)
 
 ## 
 
