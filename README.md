@@ -1,4 +1,4 @@
-[![Ben Wiedeback's github stats](https://github-readme-stats.vercel.app/api?username=inlic&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/inlic/github-readme-stats)
+[![Ben Wiedeback's github stats](https://github-readme-stats.vercel.app/api?username=inlic&show_icons=true&theme=tokyonight)](https://github.com/inlic/github-readme-stats)
 
 
 # Profile
