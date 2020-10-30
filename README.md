@@ -34,7 +34,7 @@ Full Stack Software Developer, seeking to utilize proven Javascript, Vue.js and 
 - VUE.js
 - .NET
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlic&layout=compact)](https://github.com/inlic/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlic&layout=compact)](https://github.com/inlic/github-readme-stats)
 
 ## Databases
 
