@@ -1,5 +1,5 @@
 [![Ben Wiedeback's github stats](https://github-readme-stats.vercel.app/api?username=inlic&show_icons=true&theme=cobalt)](https://github.com/inlic/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlic)](https://github.com/inlic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlic&layout=compact)](https://github.com/inlic/github-readme-stats)
 
 # Profile
 
