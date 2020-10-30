@@ -9,7 +9,9 @@ Full Stack Software Developer with a passion for data analysis and solving by ut
 
 [My Resume](./assets/Resume.pdf)
 
-## 
+## Linkedin
+
+[My Linked In Page](https://www.linkedin.com/in/benjamin-wiedeback/)
 
 ## Languages
 
