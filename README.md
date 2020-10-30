@@ -1,9 +1,13 @@
 [![Ben Wiedeback's github stats](https://github-readme-stats.vercel.app/api?username=inlic&show_icons=true&theme=cobalt)](https://github.com/inlic/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlic&layout=compact)](https://github.com/inlic/github-readme-stats)
 
+# Full-Stack Software Developer
+
 # Profile
 
-Full Stack Software Developer, seeking to utilize proven Javascript, Vue.js and C# skills to deliver coding excellence.   Have fully developed 2 Full-Stack webapps and contributed to 2 more as part of an agile development group. Contributed to 4 Github Projects and optimized business systems utilizing SQL and Python as part of Vacasa’s revenue team.
+I am a software developer with a background in data analytics.  I previously worked for Vacasa where I optimized revenue streams by utilizing SQL and Python scripting.  I am passionate about utilizing software to create applications and solve problems. I have fully developed 2 Full-stack web applications and have contributed to 2 more as part of an agile development group. 
+
+I enjoy quickly learning new skills and programming languages, backend and frontend frameworks,  design patterns like Model View Controller (MVC), and other methods of organizing code.  So far I have experience with JavaScript, HTML, CSS, C#, Python, Bootstrap, Git/Github, MySQL, PostgreSQL, and R.  I am enthusiastically looking into other programming languages, design frameworks, and principles that I can integrate into my existing knowledge in order to solve problems and build better software applications.
 
 ## Resume
 
