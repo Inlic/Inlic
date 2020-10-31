@@ -23,6 +23,11 @@ I enjoy quickly learning new skills and programming languages, backend and front
 
 [My LinkedIn Page](https://www.linkedin.com/in/benjamin-wiedeback/)
 
+
+## About Me
+
+[About Me](./assets/Video.mp4)
+
 ## My Applications
 
 - Keepr: An image forum application where posts can be created, saved by users into vaults, and accessed by other users. Utilizes a Vue.js front end with a C# back-end framework and a MySQL database.  
