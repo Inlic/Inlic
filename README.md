@@ -26,7 +26,7 @@ I enjoy quickly learning new skills and programming languages, backend and front
 
 ## About Me
 
-[About Me](./assets/Video.mp4)
+[About Me](https://www.youtube.com/watch?v=C6EHGe_EhY8&feature=youtu.be)
 
 ## My Applications
 
