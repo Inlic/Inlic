@@ -39,6 +39,23 @@ I enjoy quickly learning new skills and programming languages, backend and front
 
 
 ## Technologies
+- Html5/CSS
+- Bootstrap
+- Javascript
+- Node.js
+- C#
+- .NET
+- Python
+- Git
+- Github
+- Express
+- MySQL
+- PostgreSQL
+- Vue.js
+- Visual Studio Code
+- Heroku
+
+
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 </head>
