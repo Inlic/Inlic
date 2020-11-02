@@ -37,26 +37,10 @@ I enjoy quickly learning new skills and programming languages, backend and front
 
 
 ## Technologies
-- Html5/CSS
-- Bootstrap
-- Javascript
-- Node.js
-- C#
-- .NET
-- Python
-- Git
-- Github
-- Express
-- MySQL
-- PostgreSQL
-- Vue.js
-- Visual Studio Code
-- Heroku
 
 <div>
     <img src="./assets/Technologies.png" />
- </div>
-
+</div>
 
 ## Current Interests
 
