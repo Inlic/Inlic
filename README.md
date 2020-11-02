@@ -37,8 +37,9 @@ I enjoy quickly learning new skills and programming languages, backend and front
 
 
 ## Technologies
-
+<head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+</head>
 <i class="devicon-html5-plain"></i>
         <i class="devicon-css3-plain"></i>
         <i class="devicon-bootstrap-plain"></i>
