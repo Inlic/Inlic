@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
 <div>
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inlic&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
@@ -36,25 +38,26 @@ I enjoy quickly learning new skills and programming languages, backend and front
 - Game-Forum: A gaming forum where users can post and comment on other users’ posts. Built utilizing Javascript for the front end, a Node.js back-end, and MongoDB.
 
 
-## Languages
+## Technologies
 
-- HTML/CSS
-- Javascript 
-- C# 
-- R 
-- Python 
-- SQL
-
-## Frameworks
-
-- VUE.js
-- .NET
-
-## Databases
-
-- MySQL
-- PostgresSQL
-- MongoDB  
+<div>
+        <i class="devicon-html5-plain"></i>
+        <i class="devicon-css3-plain"></i>
+        <i class="devicon-bootstrap-plain"></i>
+        <i class="devicon-javascript-plain"></i>
+        <i class="devicon-nodejs-plain"></i>
+        <i class="devicon-csharp-plain"></i>
+        <i class="devicon-dot-net-plain-wordmark"></i>
+        <i class="devicon-python-plain-wordmark"></i>
+        <i class="devicon-git-plain"></i>
+        <i class="devicon-github-plain"></i>
+        <i class="devicon-express-original"></i>
+        <i class="devicon-mysql-plain"></i>
+        <i class="devicon-postgresql-plain"></i>
+        <i class="devicon-vuejs-plain"></i>
+        <i class="devicon-visualstudio-plain"></i>
+        <i class="devicon-heroku-original"></i>
+</div>
 
 ## Current Interests
 
