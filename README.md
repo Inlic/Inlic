@@ -54,9 +54,7 @@ I enjoy quickly learning new skills and programming languages, backend and front
 - Heroku
 
 <div>
-  <a href="/" align="left">
     <img src="./assets/Technologies.png" />
-  </a>
  </div>
 
 
